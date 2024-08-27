@@ -49,9 +49,9 @@
 
 To run the script, use the following command:
 
-    ```bash
+
     python LinkEcho.py -u <URL> [-d <depth>] [-o <output_file>]
-    ```
+  
 
 ### Arguments
 
