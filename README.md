@@ -12,23 +12,6 @@
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/mrbishalbaniya/LinkEcho.git
-
-# LinkEcho
-
-**LinkEcho** is a recursive URL finder designed to extract and list all URLs from a given web page up to a specified depth. It can be useful for web scraping, site crawling, or simply discovering links within a website.
-
-## Features
-
-- Recursive URL discovery up to a specified depth
-- Option to save results to a file
-- Customizable URL fetch depth
-
-## Installation
-
-1. Clone the repository:
-
     ```bash
     git clone https://github.com/mrbishalbaniya/LinkEcho.git
     ```
