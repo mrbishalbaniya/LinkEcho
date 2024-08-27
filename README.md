@@ -61,9 +61,9 @@ To run the script, use the following command:
 
 ### Example
 
-    ```bash
+
     python LinkEcho.py -u http://example.com -d 2 -o results.txt
-    ```
+    
 
 This command will fetch URLs from `http://example.com` up to a depth of `2` and save the results to `results.txt`.
 
